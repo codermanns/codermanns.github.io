@@ -1,0 +1,14 @@
+#pfp{
+    height: 200px;
+}
+#linkedinLogo{
+    height: 20px;
+}
+body{
+    background-color: rgb(207, 234, 236);
+}
+a:hover{
+    color: rgb(0, 60, 255);
+    border-bottom:2px solid blue;
+
+}
